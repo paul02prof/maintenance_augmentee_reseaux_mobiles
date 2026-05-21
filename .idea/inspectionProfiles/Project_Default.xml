@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anyio" />
+          <option value="beautifulsoup4" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="ddgs" />
+          <option value="duckduckgo_search" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="lxml" />
+          <option value="markdown-it-py" />
+          <option value="mdurl" />
+          <option value="mysql-connector-python" />
+          <option value="pillow" />
+          <option value="primp" />
+          <option value="Pygments" />
+          <option value="reportlab" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="soupsieve" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
