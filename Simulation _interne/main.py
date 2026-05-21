@@ -72,19 +72,7 @@ def predict(data: dict):
         "energy": float(energy),
         "anomaly": int(anomaly)
     }
-import streamlit as st
-import requests
 
-st.title("4G/5G Network Digital Twin")
-
-if st.button("Simulate step"):
-
-    response = requests.post(
-        "http://localhost:8000/predict",
-        json={}
-    ).json()
-
-    st.json(response)
 
 
 while True:
